@@ -1,0 +1,29 @@
+Array
+(
+    [distrito] => DVA
+    [numeroOficio1] => DVA
+    [numeroOficio2] => 0012
+    [numero] => 
+    [numeroFormateado] => 
+    [iniciales_solicitante] => WMMM
+    [Grado_general_superior] => Teniente
+    [ciudad] => La Unión
+    [fecha] => 2025-05-30
+    [memorando] => FG454FG494
+    [dias] => DOS DIAS
+    [diasnumero] => 2
+    [Motivo_felicitacion] => PUBLICA
+    [grado] => Tnte
+    [nombreApellidos] => Anthony Guillermo Arias Lopez
+    [cargo] => Jefe De Compañia Los Rios
+    [gradoOtorgamiento] => Poli
+    [nombreOtorgamiento] => Andres Neymar Valle Bravo
+    [cargoOtorgamiento] => Polica Distrital
+    [gradoSolicitante] => Capitán de Policia
+    [fechaInicio] => 2025-05-20
+    [fechaSeleccionada] => 2025-06-04
+    [fechaSeleccionadaFormateada] => 4-5 de junio de 2025
+    [opcional] => 
+    [nombreSolicitante] => Walter Mario Mendes Mendes
+    [cargoSolicitante] => JEFE DE DISTRITO DE LOS RIOS
+)
